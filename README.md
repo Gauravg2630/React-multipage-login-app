@@ -30,7 +30,7 @@ A beautifully designed multi-page site built with **React Router DOM** that star
 
 ## 🔗 Live Demo
 
-🌍 [View Project on Netlify](https://your-live-link.netlify.app)
+🌍 [View Project on Netlify](https://gaurav-routing-pages-app.netlify.app/)
 
 ---
 
