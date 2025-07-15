@@ -20,10 +20,11 @@ A beautifully designed multi-page site built with **React Router DOM** that star
 ## 📸 Screenshots
 
 > Include these images in your repo:
-- (./Screenshot%20(466).png)
-- (./Screenshot%20(467).png)
-- (./Screenshot%20(468).png)
-- (./Screenshot%20(469).png)
+- ![Weather App Screenshot](./Screenshot%20(466).png) 
+- ![Weather App Screenshot](./Screenshot%20(467).png) 
+- ![Weather App Screenshot](./Screenshot%20(468).png) 
+- ![Weather App Screenshot](./Screenshot%20(469).png) 
+
 
 ---
 
