@@ -20,10 +20,10 @@ A beautifully designed multi-page site built with **React Router DOM** that star
 ## 📸 Screenshots
 
 > Include these images in your repo:
-- `/screenshots/login-page.png`
-- `/screenshots/home.png`
-- `/screenshots/about.png`
-- `/screenshots/contact.png`
+- (./Screenshot%20(466))
+- (./Screenshot%20(467))
+- (./Screenshot%20(468))
+- (./Screenshot%20(469))
 
 ---
 
